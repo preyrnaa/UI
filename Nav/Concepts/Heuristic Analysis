@@ -1,0 +1,123 @@
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<section id="top"><header id="home-top" class="nav-top nav-fixed nav-root">
+<div class="container">
+<div class="row">
+<div class="col-md-4 col-xs-4">
+<h1 id="header-logo" class="image-text"><a href="/"> Prerna Gore </a></h1>
+</div>
+<div class="col-md-8 col-xs-8"><nav id="top-nav">
+<ul class="nav-list transistion">
+<li><a href="../../../index.html">About</a></li>
+<li><a href="../../../notebook.html">Notebook</a></li>
+<li><a class="active" href="../../../notes.html">Concepts</a></li>
+<li><a href="../../../didactics.html">Didactics</a></li>
+</ul>
+</nav></div>
+<!-- 12 --></div>
+<!-- / row --></div>
+<!--/ container --></header>
+<div class="masthead-wrap">
+<div id="title" class="work-head">
+<div class="container">
+<div class="transistion cloud left-cloud-notes">&nbsp;</div>
+<div class="transistion cloud right-cloud-notes">&nbsp;</div>
+<div class="transistion flag flag-left">&nbsp;</div>
+<div class="transistion flag flag-right">&nbsp;</div>
+<div class="row">
+<div class="col-md-12">&nbsp;</div>
+<!-- /col 24 --></div>
+<!-- /row --></div>
+</div>
+</div>
+</section>
+<h2>Heuristic evaluation</h2>
+<h3>Heuristic evaluation is a usability inspection method for computer software that helps to identify usability problems in the user interface (UI) design. It specifically involves evaluators examining the interface and judging its compliance with recognized usability principles (the &ldquo;heuristics&rdquo;). These evaluation methods are now widely taught and practiced in the new media sector, where UIs are often designed in a short space of time on a budget that may restrict the amount of money available to provide for other types of interface testing.</h3>
+<p>&nbsp;</p>
+<h3>Usability Guidelines (&ldquo;Heuristics&rdquo;)</h3>
+<p>Different set of guidlines are provided by experts to evaluate the usability of a UI. Depending on the type of the system and desired output, a standard set of attributes can be evalutated. Alternatively, a new set of values can be defined if neccessary.</p>
+<ul>
+<li>Nielsen&rsquo;s 10 principles</li>
+<li>Norman&rsquo;s rules from Design of Everyday Things</li>
+<li>Tognazzini&rsquo;s 16 principles</li>
+<li>Shneiderman&rsquo;s 8 golden rules</li>
+<li>Gerhardt-Powals' cognitive engineering principles</li>
+</ul>
+<p><br /><br /></p>
+<h3>Nielsen&rsquo;s 10 principles :</h3>
+<ul>
+<li>
+<h3>Visibility of system status:</h3>
+The system should always keep users informed about what is going on, through appropriate feedback within reasonable time.</li>
+<li>
+<h3>Match between system and the real world:</h3>
+The system should speak the user's language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order.</li>
+<li>
+<h3>User control and freedom:</h3>
+Users often choose system functions by mistake and will need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended dialogue. Support undo and redo.</li>
+<li>
+<h3>Consistency and standards:</h3>
+Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform conventions.</li>
+<li>
+<h3>Error prevention:</h3>
+Even better than good error messages is a careful design which prevents a problem from occurring in the first place. Either eliminate error-prone conditions or check for them and present users with a confirmation option before they commit to the action.</li>
+<li>
+<h3>Recognition rather than recall:</h3>
+Minimize the user's memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.</li>
+<li>
+<h3>Flexibility and efficiency of use:</h3>
+Accelerators&mdash;unseen by the novice user&mdash;may often speed up the interaction for the expert user such that the system can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.</li>
+<li>
+<h3>Aesthetic and minimalist design:</h3>
+Dialogues should not contain information which is irrelevant or rarely needed. Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility.</li>
+<li>
+<h3>Help users recognize, diagnose, and recover from errors:</h3>
+Error messages should be expressed in plain language (no codes), precisely indicate the problem, and constructively suggest a solution.</li>
+<li>
+<h3>Help and documentation:</h3>
+Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large.</li>
+</ul>
+<p><br /><br /></p>
+<h3>Norman Principles :</h3>
+<ul>
+<li>
+<h3>Visibility:</h3>
+Visibility is the basic principle that the more visible an element is, the more likely users will know about them and how to use them. Equally important is the opposite: when something is out of sight, it&rsquo;s difficult to know about and use.</li>
+<li>
+<h3>Feedback :</h3>
+Feedback is the principle of making it clear to the user what action has been taken and what has been accomplished. Many forms of feedback exist in interaction design, including visual, tactile, audio, and more. The key is to design the experience to never leave the user guessing about what action they have taken and the consequence of doing so..</li>
+<li>
+<h3>Constraints:</h3>
+Constraints is about limiting the range of interaction possibilities for the user to simplify the interface and guide the user to the appropriate next action. This is a case where constraints are clarifying, since they make it clear what can be done. Limitless possibilities often leave the user confused..</li>
+<li>
+<h3>Natural mapping:</h3>
+Mapping is about having a clear relationship between controls and the effect they have on the world. You want this mapping to feel as natural as possible. Stove tops are a great example here. .</li>
+<li>
+<h3>Consistency :</h3>
+Consistency refers to having similar operations and similar elements for achieving similar tasks. By leveraging consistent elements throughout your entire experience, you make your experience far easier to use. This consistency is important not only within your interface, but across the many interfaces users are using across their devices..</li>
+<li>
+<h3>Affordances:</h3>
+Affordance refers to an attribute of an object that allows people to know how to use it. Essentially to afford means to give a clue. The physical button on a mouse gives a clue that it can be clicked to perform an action. When an object has strong affordances, it’s very clear how to use it.</li>
+</ul>
+<h3>Testing:</h3>
+<p>is the opportunity to improve our solutions and makes them better. <br /> <a href="https://dschool.stanford.edu/resources/the-bootcamp-bootleg">Refrence</a></p>
+<section id="date">
+<div class="container">&nbsp;</div>
+</section>
+<!--<img src="img/content/nav/underconst.png" alt="Under Construction">-->
+<p>&nbsp;</p>
+<!--<input type="file" name="pic" accept="image/*">
+    <input type="submit">-->
+<p>&nbsp;</p>
+<footer>
+<div class="container">
+<div class="row">&nbsp;</div>
+<div class="row">
+<div class="col-md-12">
+<p>&copy; 2019: Prerna Gore. All rights reserved.</p>
+</div>
+</div>
+</div>
+</footer><!-- Google Analytics -->
+<p>&nbsp;</p>
+<!-- End Google Analytics -->
