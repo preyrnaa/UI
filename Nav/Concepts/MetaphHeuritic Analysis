@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      Prerna Gore - a web designer &amp; developer - About </title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <meta name="description" content="The portfolio of Prerna Gore, an Indian Web Designer based in Bangalore, India." />
+    <meta name="keywords" content="prerna, gore, preyrnaa ,ui, notes, websites, graphics, illustration, freelance, developer" />
+    <meta name="robots" content="index, follow" />
+
+
+    <meta name="msapplication-TileImage" content="../../..img/content/me.png">
+    <meta name="msapplication-TileColor" content="#E0EBE8">
+
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../../../img/content/me.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="../../../img/content/me.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../../../img/content/me.png">
+    <link rel="apple-touch-icon-precomposed" href="../../../img/content/me.png">
+    <link rel="icon" type="image/png" href="../../../img/content/me.png">
+
+    <link rel="stylesheet" href="../../../css/bootstrap.css" />
+
+    <script type="text/javascript" src="http://gc.kis.v2.scr.kaspersky-labs.com/566EB25A-F421-CA4A-94F1-61B1B71B8E81/main.js" charset="UTF-8"></script>
+    <script type="text/javascript" src="//use.typekit.net/wdj6cpr.js"></script>
+    <script type="text/javascript">
+      try {
+        Typekit.load();
+      } catch (e) {}
+    </script>
+
+    <script src="../../../js/respond.min.js"></script>
+  	<script src="../../../js/modernizr.js"></script>
+
+
+
+  </head>
+  <body class="" align="center">
+
+    <section id="top">
+
+      <header id="home-top" class="nav-top nav-fixed nav-root">
+
+        <div class="container">
+
+          <div class="row">
+
+            <div class="col-md-4 col-xs-4">
+
+              <h1 id="header-logo" class="image-text">
+
+                <a href="/">
+
+                  Prerna Gore
+                  <i class=""></i>
+                </a>
+
+              </h1>
+
+            </div>
+
+            <div class="col-md-8 col-xs-8">
+
+              <nav id="top-nav">
+
+                <ul class="nav-list transistion">
+
+
+                  <li><a href="../../../index.html">About</a></li>
+                  <li><a  href="../../../notebook.html">Notebook</a></li>
+                  <li><a class="active" href="../../../notes.html">Concepts</a></li>
+    <li><a href="../../../didactics.html">Didactics</a></li>
+
+                </ul>
+
+              </nav>
+
+            </div> <!-- 12 -->
+
+          </div> <!-- / row -->
+
+        </div>
+        <!--/ container -->
+
+
+      </header>
+      <div class="masthead-wrap">
+
+        <div id="title" class="work-head">
+
+
+
+          <div class="container">
+
+            <div class="transistion cloud left-cloud-notes"></div>
+            <div class="transistion cloud right-cloud-notes"></div>
+
+            <div class="transistion flag flag-left"></div>
+            <div class="transistion flag flag-right"></div>
+
+            <div class="row">
+
+              <div class="col-md-12">
+
+
+                <div id="head-slider" class="transistion">
+
+                  <div class="slide-contents">
+
+                    <div class="slide">
+
+                      <h2 class="notes">
+
+
+                      </h2>
+
+
+                    </div>
+
+
+                  </div>
+
+
+                </div>
+
+
+              </div> <!-- /col 24 -->
+
+            </div> <!-- /row -->
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+
+    </section>
+
+    <h2>Heuristic evaluation</h2>
+<h3>Heuristic evaluation is a usability inspection method for computer software that helps to identify usability problems in the user interface (UI) design. It specifically involves evaluators examining the interface and judging its compliance with recognized usability principles (the &ldquo;heuristics&rdquo;). These evaluation methods are now widely taught and practiced in the new media sector, where UIs are often designed in a short space of time on a budget that may restrict the amount of money available to provide for other types of interface testing.</h3>
+<p>&nbsp;</p>
+<h3>Usability Guidelines (&ldquo;Heuristics&rdquo;)</h3>
+<p>Different set of guidlines are provided by experts to evaluate the usability of a UI. Depending on the type of the system and desired output, a standard set of attributes can be evalutated. Alternatively, a new set of values can be defined if neccessary.</p>
+<ul>
+<li>Nielsen&rsquo;s 10 principles</li>
+<li>Norman&rsquo;s rules from Design of Everyday Things</li>
+<li>Tognazzini&rsquo;s 16 principles</li>
+<li>Shneiderman&rsquo;s 8 golden rules</li>
+<li>Gerhardt-Powals' cognitive engineering principles</li>
+</ul>
+<p><br /><br /></p>
+<h3>Nielsen&rsquo;s 10 principles :</h3>
+<ul>
+<li>
+<h3>Visibility of system status:</h3>
+The system should always keep users informed about what is going on, through appropriate feedback within reasonable time.</li>
+<li>
+<h3>Match between system and the real world:</h3>
+The system should speak the user's language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order.</li>
+<li>
+<h3>User control and freedom:</h3>
+Users often choose system functions by mistake and will need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended dialogue. Support undo and redo.</li>
+<li>
+<h3>Consistency and standards:</h3>
+Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform conventions.</li>
+<li>
+<h3>Error prevention:</h3>
+Even better than good error messages is a careful design which prevents a problem from occurring in the first place. Either eliminate error-prone conditions or check for them and present users with a confirmation option before they commit to the action.</li>
+<li>
+<h3>Recognition rather than recall:</h3>
+Minimize the user's memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.</li>
+<li>
+<h3>Flexibility and efficiency of use:</h3>
+Accelerators&mdash;unseen by the novice user&mdash;may often speed up the interaction for the expert user such that the system can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.</li>
+<li>
+<h3>Aesthetic and minimalist design:</h3>
+Dialogues should not contain information which is irrelevant or rarely needed. Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility.</li>
+<li>
+<h3>Help users recognize, diagnose, and recover from errors:</h3>
+Error messages should be expressed in plain language (no codes), precisely indicate the problem, and constructively suggest a solution.</li>
+<li>
+<h3>Help and documentation:</h3>
+Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large.</li>
+</ul>
+<p><br /><br /></p>
+<h3>Tog’s First Principles :</h3>
+<ul>
+<li>
+<h3>Anticipation:</h3>
+Try to anticipate the user’s wants and needs.
+<br>Give user all information and tools needed for each step..</li>
+<li>
+<h3>Autonomy :</h3>
+The computer, the interface, and the task environment all "belong" to the user.
+<br>Give user control by keeping her informed.</li>
+<li>
+<h3>Color Blindness:</h3>
+When using color use clear, secondary cues.</li>
+<li>
+<h3>Consistency:</h3>
+ The most important consistency is consistency with user expectations.
+<br>The importance of strict consistency varies.
+<br>It is just important to be visually inconsistent when things must act differently
+as it is to be visually consistent when things act the same.</li>
+<li>
+<h3>Defaults :</h3>
+ Defaults should be easy to “blow away.”
+<br>They should be “intelligent” and responsive.</li>
+<li>
+<h3>Efficiency of the User:</h3>
+ Consider user’s productivity, not the computer’s.
+<br>Keep the user occupied.
+<br>Maximize everyone’s efficiency.</li>
+
+<li>
+<h3>Explorable Interfaces:</h3>
+Give user roads and landmarks, but allow exploration.
+<br>Give user stable cues for a sense of “home.”
+<br>Allow undo
+<br>Allow a way out.</li>
+<li>
+<h3>Fitts's Law :</h3>
+The time to acquire a target is a function of the distance to and size of the target..</li>
+<li>
+<h3>Human Interface Objects:</h3>
+ User’s interface objects appear within the user's environment.
+<br>They can be seen, heard, touched, etc.
+<br>They have a standard way of interacting with standard resulting behaviors.
+<br>They should be understandable, self-consistent and stable.</li>
+<li>
+<h3>Latency Reduction:</h3>
+ Reduce the user’s experience of latency.
+<br>Push latency into the background.</li>
+<li>
+<h3>Learnability :</h3>
+All applications and services have a learning curve.
+<br>Limit trade-offs between usability and learnability.</li>
+<li>
+<h3>Use of Metaphors:</h3>
+ Choose metaphors well to enable the user to grasp the conceptual model.
+<br>Bring metaphors alive by appeal to kinesthesia.</li>
+<li>  <h3>Protect Users' Work:</h3>
+Ensure that users never lose work, unless completely unavoidable.</li>
+<li>
+<h3>Readability :</h3>
+Text that must be read should have high contrast.
+<br>Use font sizes large enough.
+<br>Don’t forget those with special needs.</li>
+<li>
+<h3>Track State:</h3>
+Keep track of state.
+<br>Store it for later use.</li>
+    <li>
+<h3>Visible Navigation:</h3>
+ Avoid invisible navigation.
+<br>Do not prevail upon user to build elaborate mental maps.</li>
+</ul>
+    
+<h3>Tog’s First Principles :</h3>
+<p>is the opportunity to improve our solutions and makes them better. <br /> 
+             <br>
+               <a href="https://dschool.stanford.edu/resources/the-bootcamp-bootleg">Refrence</a>
+
+
+    <section id="date">
+
+
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-md-12">
+
+            <div class="dates">
+
+
+
+
+              <p class="lead">
+
+
+
+            </div>
+
+
+          </div>
+
+
+        </div>
+
+      </div>
+
+
+    </section>
+    <!--<img src="img/content/nav/underconst.png" alt="Under Construction">-->
+    <br>
+    <br>
+
+    <!--<input type="file" name="pic" accept="image/*">
+    <input type="submit">-->
+    <br>
+    <br>
+
+    <footer>
+
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-md-12">
+
+            <ul class="footer-list">
+
+
+            </ul>
+
+          </div>
+
+        </div>
+
+        <div class="row">
+
+          <div class="col-md-12">
+
+
+            <p>© 2019: Prerna Gore. All rights reserved.</p>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </footer>
+
+
+
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script>
+      window.jQuery || document.write('<script src="../..js/jquery-1.10.2.min.js"><\/script>')
+    </script>
+    <script src="../..js/bootstrap.min.js"></script>
+    <script src="../..js/min/app.js"></script>
+    <script src="../..js/min/init.min.js"></script>
+
+
+    <!-- Google Analytics -->
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-132891194-1', 'auto');
+    ga('send', 'pageview');
+    </script>
+    <!-- End Google Analytics -->
+
+  </body>
+</html>
